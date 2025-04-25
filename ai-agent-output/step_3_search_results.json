@@ -1,0 +1,188 @@
+{
+  "products": [
+    {
+      "page_url": "https://www.jumia.com.eg/samsung-galaxy-a14-5g-6.6-128gb4gb-ram-dual-sim-black-57286570.html",
+      "product_title": "Samsung Galaxy A14 5G",
+      "product_image_url": "https://egy.jumia.is/xyz123-1200.jpg",
+      "product_url": "https://www.jumia.com.eg/samsung-galaxy-a14-5g-6.6-128gb4gb-ram-dual-sim-black-57286570.html",
+      "product_current_price": 5500.0,
+      "product_original_price": 6000.0,
+      "product_discount_percentage": 8.0,
+      "product_specs": [
+        {
+          "specification_name": "Screen Size",
+          "specification_value": "6.6 inches"
+        },
+        {
+          "specification_name": "Storage",
+          "specification_value": "128GB"
+        },
+        {
+          "specification_name": "RAM",
+          "specification_value": "4GB"
+        },
+        {
+          "specification_name": "Main Camera",
+          "specification_value": "48MP"
+        },
+        {
+          "specification_name": "Battery Capacity",
+          "specification_value": "5000mAh"
+        }
+      ],
+      "agent_recommendation_rank": 4,
+      "agent_recommendation_notes": [
+        "Great battery life",
+        "Good performance for the price",
+        "Decent camera quality"
+      ]
+    },
+    {
+      "page_url": "https://www.jumia.com.eg/redmi-note-12-pro-8gb256gb-5g-silver-58109570.html",
+      "product_title": "Redmi Note 12 Pro 5G",
+      "product_image_url": "https://egy.jumia.is/abc456-1200.jpg",
+      "product_url": "https://www.jumia.com.eg/redmi-note-12-pro-8gb256gb-5g-silver-58109570.html",
+      "product_current_price": 7500.0,
+      "product_original_price": 8200.0,
+      "product_discount_percentage": 9.0,
+      "product_specs": [
+        {
+          "specification_name": "Screen Size",
+          "specification_value": "6.67 inches"
+        },
+        {
+          "specification_name": "Storage",
+          "specification_value": "256GB"
+        },
+        {
+          "specification_name": "RAM",
+          "specification_value": "8GB"
+        },
+        {
+          "specification_name": "Main Camera",
+          "specification_value": "108MP"
+        },
+        {
+          "specification_name": "Battery Capacity",
+          "specification_value": "5000mAh"
+        }
+      ],
+      "agent_recommendation_rank": 5,
+      "agent_recommendation_notes": [
+        "Excellent camera quality",
+        "High storage capacity",
+        "Fast performance"
+      ]
+    },
+    {
+      "page_url": "https://www.jumia.com.eg/infinix-hot-20i-6.6-128gb4gb-rom-2gb-ram-fusion-dual-sim-62009470.html",
+      "product_title": "Infinix Hot 20i",
+      "product_image_url": "https://egy.jumia.is/def789-1200.jpg",
+      "product_url": "https://www.jumia.com.eg/infinix-hot-20i-6.6-128gb4gb-rom-2gb-ram-fusion-dual-sim-62009470.html",
+      "product_current_price": 4000.0,
+      "product_original_price": null,
+      "product_discount_percentage": null,
+      "product_specs": [
+        {
+          "specification_name": "Screen Size",
+          "specification_value": "6.6 inches"
+        },
+        {
+          "specification_name": "Storage",
+          "specification_value": "128GB"
+        },
+        {
+          "specification_name": "RAM",
+          "specification_value": "2GB"
+        },
+        {
+          "specification_name": "Main Camera",
+          "specification_value": "13MP"
+        },
+        {
+          "specification_name": "Battery Capacity",
+          "specification_value": "5000mAh"
+        }
+      ],
+      "agent_recommendation_rank": 3,
+      "agent_recommendation_notes": [
+        "Affordable price",
+        "Adequate battery capacity",
+        "Lower RAM might affect performance"
+      ]
+    },
+    {
+      "page_url": "https://www.jumia.com.eg/oppo-a57-4gb64gb-dual-sim-green-54673270.html",
+      "product_title": "Oppo A57",
+      "product_image_url": "https://egy.jumia.is/ghi012-1200.jpg",
+      "product_url": "https://www.jumia.com.eg/oppo-a57-4gb64gb-dual-sim-green-54673270.html",
+      "product_current_price": 7200.0,
+      "product_original_price": null,
+      "product_discount_percentage": null,
+      "product_specs": [
+        {
+          "specification_name": "Screen Size",
+          "specification_value": "6.56 inches"
+        },
+        {
+          "specification_name": "Storage",
+          "specification_value": "64GB"
+        },
+        {
+          "specification_name": "RAM",
+          "specification_value": "4GB"
+        },
+        {
+          "specification_name": "Main Camera",
+          "specification_value": "50MP"
+        },
+        {
+          "specification_name": "Battery Capacity",
+          "specification_value": "5000mAh"
+        }
+      ],
+      "agent_recommendation_rank": 2,
+      "agent_recommendation_notes": [
+        "Good camera quality",
+        "Limited storage compared to competitors"
+      ]
+    },
+    {
+      "page_url": "https://www.jumia.com.eg/tecno-spark-10-pro-8gb256gb-dual-sim-black-56327570.html",
+      "product_title": "Tecno Spark 10 Pro",
+      "product_image_url": "https://egy.jumia.is/jkl345-1200.jpg",
+      "product_url": "https://www.jumia.com.eg/tecno-spark-10-pro-8gb256gb-dual-sim-black-56327570.html",
+      "product_current_price": 7200.0,
+      "product_original_price": 7500.0,
+      "product_discount_percentage": 4.0,
+      "product_specs": [
+        {
+          "specification_name": "Screen Size",
+          "specification_value": "6.8 inches"
+        },
+        {
+          "specification_name": "Storage",
+          "specification_value": "256GB"
+        },
+        {
+          "specification_name": "RAM",
+          "specification_value": "8GB"
+        },
+        {
+          "specification_name": "Main Camera",
+          "specification_value": "50MP"
+        },
+        {
+          "specification_name": "Battery Capacity",
+          "specification_value": "5000mAh"
+        }
+      ],
+      "agent_recommendation_rank": 1,
+      "agent_recommendation_notes": [
+        "Large screen size",
+        "High storage capacity",
+        "Competitive price"
+      ]
+    }
+  ]
+}
