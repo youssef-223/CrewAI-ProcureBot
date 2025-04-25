@@ -119,4 +119,7 @@ The CrewAI ProcureBot generates several output files during its procurement proc
 
 4. **step_4_procurement_report.html**: A professional HTML report summarizing the procurement findings, including product comparisons, pricing analysis, and purchasing recommendations.
 
+Click [here](ai-agent-output\step_4_procurement_report.html) to view the final output
+
 These files document the step-by-step process of the procurement workflow and provide valuable insights for making informed purchasing decisions. 
+
