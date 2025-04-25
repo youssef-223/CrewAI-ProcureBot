@@ -105,4 +105,18 @@ MIT
 - [CrewAI](https://github.com/joaomdmoura/crewai)
 - [AgentOps](https://www.agentops.ai/)
 - [Tavily](https://tavily.com/)
-- [ScrapegraphAI](https://www.scrapegraph.ai/) 
+- [ScrapegraphAI](https://www.scrapegraph.ai/)
+
+## Output Files
+
+The CrewAI ProcureBot generates several output files during its procurement process:
+
+1. **step_1_suggested_search_queries.json**: Contains the AI-generated search queries for finding the requested product across specified e-commerce websites.
+
+2. **step_2_search_results.json**: Stores the raw search results from the web search, including titles, URLs, content snippets, and relevance scores.
+
+3. **step_3_search_results.json**: Contains detailed product information extracted from the search results, including prices, specifications, images, and AI-generated recommendation rankings.
+
+4. **step_4_procurement_report.html**: A professional HTML report summarizing the procurement findings, including product comparisons, pricing analysis, and purchasing recommendations.
+
+These files document the step-by-step process of the procurement workflow and provide valuable insights for making informed purchasing decisions. 
