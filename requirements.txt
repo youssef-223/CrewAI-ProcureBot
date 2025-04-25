@@ -1,0 +1,4 @@
+crewai[tools,agentops]==0.114.0
+tavily-python
+scrapegraph-py
+python-dotenv 
